@@ -24,7 +24,7 @@ export default function Testimonials() {
             id: 3,
             name: "Prateek Jena",
             title: "Senior Front End Developer @ DTE Energy",
-            desc: "Chris was a pleasure to work with in my time with him at flatiron. Not only was he professional, creative and hard working but he was also a great personality to interact with on a daily basis. I enjoyed working with Chris everyday.",
+            desc: `I worked with Chris in DTE, He is focused and goal orientated, He juggled multiple projects at ease providing perfect solutions, His work ethics and problem solving skills are commendable. He is a key asset for DTE 2024's success.`,
         },
     ]
     return (
