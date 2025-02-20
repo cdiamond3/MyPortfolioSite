@@ -50,10 +50,10 @@ export const myProjectsPortfolio = [
     },
     {
         id: 3,
-        title: "Golf Score Tracker",
-        img: "https://i.fbcd.co/products/resized/resized-750-500/592-0202cefb8498c7c48ab255e1f6e472a22ad18e94cf6144731b86fc018fc38e5e.jpg",
-        url: "https://github.com/cdiamond3/golf-tracking-app-frontend",
-        desc:'Golf Scores and Stats tracking application',
+        title: "Reaction Time Game",
+        img: "https://i.pinimg.com/236x/23/fa/4b/23fa4b6d155addf690a2a7993d931977.jpg",
+        url: "https://github.com/cdiamond3/reaction-game",
+        desc:'Test Your Reaction Time!',
 
     },
 ]
